@@ -1,7 +1,7 @@
 # My Gallery
 ## TODO
-- [ ] Make it deploy
-- [ ] Scaffold basic UI with dummy data
+- [x] Make it deploy
+- [x] Scaffold basic UI with dummy data
 - [ ] Set up database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add auth (clerk)
